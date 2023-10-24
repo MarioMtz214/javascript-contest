@@ -1,0 +1,19 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.titulo{
+    width: 600px;
+    text-align: center;
+}
+.titulo h1{
+    font-size: 60px;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titulo p{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+}

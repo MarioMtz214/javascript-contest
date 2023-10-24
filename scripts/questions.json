@@ -1,0 +1,32 @@
+[
+    {
+      "pregunta": "¿Cuál es el secreto del éxito?",
+      "respuestas": ["Dinero", "Más dinero", "Belleza", "Ser Jeff Bezos"],
+      "respuesta_correcta": 3
+    },
+    {
+      "pregunta": "¿Cuánto es 2 + 2?",
+      "respuestas": ["5", "3", "4", "No lo sé"],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "respuestas": ["Londres", "París", "Berlín", "Madrid"],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "respuestas": ["Amazonas", "Nilo", "Mississippi", "Yangtsé"],
+      "respuesta_correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "respuestas": ["Pacífico", "Atlántico", "Índico", "Ártico"],
+      "respuesta_correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la montaña más alta del mundo?",
+      "respuestas": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "respuesta_correcta": 0
+    }
+]
