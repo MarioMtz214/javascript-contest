@@ -2,4 +2,13 @@
 
 A javascript contest script 
 
-- By Mario M
+# Features
+
+- Randomize questions 
+- User friendly interface design  
+
+# Techologies
+
+- Javascript 
+- JSON
+- Tailwindcss
