@@ -28,10 +28,5 @@
       "pregunta": "¿Cuál es la montaña más alta del mundo?",
       "respuestas": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
       "respuesta_correcta": 0
-    }, 
-    {
-      "pregunta": "¿Cuál es la montaña más baja del mundo?",
-      "respuestas": ["Collserola", "Chilliad"],
-      "respuesta_correcta": 0
     }
 ]
